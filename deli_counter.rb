@@ -6,7 +6,7 @@ def line (katz_deli)
     if katz_deli == []
       puts "The line is currently empty."
     else
-     loop do ||
+     loop do |array|
     end
 end
     
