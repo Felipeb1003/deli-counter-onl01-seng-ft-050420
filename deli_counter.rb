@@ -15,4 +15,7 @@ def take_a_number(katz_deli, name)
     katz_deli << name
     size_array = katz_deli.length
     puts "Welcome, #{name}. You are number #{size_array} in line."
+    
 end
+
+def now_serving(i.e)
